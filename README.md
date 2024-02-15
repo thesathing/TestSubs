@@ -1,0 +1,2 @@
+# TestSubs
+Subsquid Testnet
